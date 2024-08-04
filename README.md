@@ -8,5 +8,5 @@ Please note that these assets are under the [CC-BY-NC-SA-4.0 License](./LICENSE.
 
 ## Resources
 
-This was primarily created for a GUI resource pack I develop: [Dracula Theme](https://github.com/dracula/minecraft)
-[CC-BY-NC-SA-4.0 License](./LICENSE.md)
+- This was primarily created for a GUI resource pack I develop: [Dracula Theme](https://github.com/dracula/minecraft)
+- License: [CC-BY-NC-SA-4.0 License](./LICENSE.md)
